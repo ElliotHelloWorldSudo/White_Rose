@@ -1,0 +1,19 @@
+{
+  "name": "hacknightwrapper",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mammoth": "^1.11.0",
+    "multer": "^2.0.2",
+    "music-metadata": "^11.9.0",
+    "openai": "^6.7.0"
+  }
+}
